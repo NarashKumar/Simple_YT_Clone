@@ -56,7 +56,7 @@ SIMPLE_YT_CLONE is a simple YouTube clone application built with React that allo
 
 ###  Prerequisites
 
-**JavaScript**: `version x.y.z`
+**Javascript**: `version 21.7.3`
 
 ###  Installation
 
@@ -107,8 +107,7 @@ To run the project, execute the following command:
 ```
     
 ---
-
-    ##  Contributing
+##  Contributing
 
 Contributions are welcome! Here are several ways you can contribute:
 
