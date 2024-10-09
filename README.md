@@ -28,13 +28,13 @@
 
 #####  Table of Contents
 
-- [ Overview](#-overview)
-- [ Features](#-features)
-- [ Repository Structure](#-repository-structure)
-- [ Getting Started](#-getting-started)
-- [ Contributing](#-contributing)
-- [ License](#-license)
-- [ Acknowledgments](#-acknowledgments)
+- [Overview](#overview)
+- [Features](#features)
+- [Repository Structure](#repository-structure)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -56,7 +56,7 @@ SIMPLE_YT_CLONE is a simple YouTube clone application built with React that allo
 
 ###  Prerequisites
 
-**Javascript**: `version 21.7.3`
+**Node**: `version 21.7.3`
 
 ###  Installation
 
